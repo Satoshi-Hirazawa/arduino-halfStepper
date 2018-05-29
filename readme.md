@@ -9,9 +9,9 @@ To use it you will need a stepper motor, and the appropriate hardware to control
 
 - Set the control pin and 360 degree step number
 
-	Stepper(int stepsNum, int pin1, int pin2, int pin3, int pin4)
+`Stepper(int stepsNum, int pin1, int pin2, int pin3, int pin4)`
 
 
 - Set time and step for rotate.
 
-	step(int steps, int time)
+`step(int steps, int time)`
